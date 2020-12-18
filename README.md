@@ -14,6 +14,10 @@ a,两个英文单词；b,简单易懂；c,直接明白内容；
 
 
 
+<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201218171354422.png" alt="image-20201218171354422" style="zoom:80%;" />
+
+
+
 
 ```mermaid
 graph LR
