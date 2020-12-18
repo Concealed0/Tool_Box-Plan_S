@@ -12,9 +12,7 @@ a,两个英文单词；b,简单易懂；c,直接明白内容；
 
 ## 项目结构图
 
-
-
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201218171354422.png" alt="image-20201218171354422" style="zoom:80%;" />
+![image-20201218171726861](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20201218171726861.png)
 
 
 
