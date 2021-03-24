@@ -76,6 +76,15 @@ git push originS master
 git reflog -- relative-date //查看最近提交状态及其更新的时间
 git reset --hard 801f6b4 (回退版本号)
 git branch  
+###
+git init 
+git remote add origin http://znsygit.hisensehics.com:447/scrm/hicrm-crm-wechat.git
+git pull origin master
+#重新写.ignore
+写好ignore文件
+git rm -r . --cached
+git add .
+  
 
    
 ```
