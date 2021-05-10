@@ -14,6 +14,7 @@
         <module>platform-business</module>
         <module>platform-client</module>
         <module>platform-search</module>
+        <module>platform-test</module>
     </modules>
 
 
